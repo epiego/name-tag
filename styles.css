@@ -1,0 +1,52 @@
+* {
+   box-sizing: border-box;
+}
+.head{
+   /* clockwise from the top, top right bottom left (like TROUBLE: TRBL) */
+   margin: 5px 5px 5px 5px;
+   padding: 10px 5px 5px 5px;
+}
+body, html {
+   background-color: grey;
+   width: 100%;
+   border-radius: 3%;
+   height: 5;
+   padding: 0;
+   margin: 2%;
+   border-bottom: center;
+}
+main{
+   padding: 1%;
+   border-radius: 25px;
+   background: red;
+   margin: 0;
+}
+.greeting-section{
+   font-size: 80px;
+   text-align: center;
+   color: white;
+   padding: auto;
+}
+h1{font-size: 70px;
+   text-align: center;
+   color: white;
+}
+h2{
+   color: white;
+   text-size: 60px;
+}
+.my-name-is{
+   color: white;
+   text-size: 80px;
+   text-align: center;
+}
+ .name-section{
+    background: white;
+    color: black;
+    font-family: Arial, Helvetica, sans-serif;
+    font-style: Italic;
+    text-align: center;
+    font-size: 10vw;
+ }
+ .footer-section{
+ }
